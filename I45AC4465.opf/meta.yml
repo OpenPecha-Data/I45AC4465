@@ -1,0 +1,38 @@
+id: I45AC4465
+source: https://sakyaresearch.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-19T04:32:21.612894'
+last_modified: '2022-06-19T04:32:21.612907'
+parser: null
+source_metadata:
+  title: Hagiography of Jam dbyangs blo gter dbang po (1847–1914); Lamdre Lobshe,
+    vol. nya, title no. 2
+  author: མཁན་ཆེན་བསམ་གཏན་བློ་གྲོས།
+  description: 'Digital version 2.0 {Tibetan}; master xml (completed: 2013-09-09);
+    unrevised, no thematic TEI markup'
+  file_info:
+  - 'Language: Tibetan'
+  - 'Coverage: Full Text'
+  - 'Accessible: publicly'
+  responibilities:
+  - Digital edition:ས་སྐྱ་ཞིབ་འཇུག་ཁང་། (src)
+  - Text input:རྫོང་སར་ཁམས་བྱེའི་ལྔ་རིག་སློབ་གླིང་། སྡེ་དགེ་རྫོང་སར། (dzkj)
+  - Editorial process:Mathias Fermer (mf), ཀུན་དགའ་རྡོ་རྗེ། (Kathmandu) (kun)
+  - TEI Encoding:ས་སྐྱ་ཞིབ་འཇུག་ཁང་།
+  - TEI Markup:-
+  - Revisions/Corrections:-
+  text_witnesses: https://sakyaresearch.org/sources/582
+  bases:
+    d3d7:
+      title: Hagiography of Jam dbyangs blo gter dbang po (1847–1914); Lamdre Lobshe,
+        vol. nya, title no. 2
+      order: 1
+      base_file: d3d7.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
